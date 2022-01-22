@@ -1,1 +1,1 @@
-This Repository contains all my codes solved on Hackerrank.
+This Repository contains all my Python Codes solved on Hackerrank.
